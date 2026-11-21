@@ -26,3 +26,9 @@ brings the findings together with interactive filters.
 The data is a two-day catalog snapshot. It supports prioritizing a review
 of affected listings. Measuring lost sales or confirming persistent
 availability issues would require additional data.
+
+## Project Files
+
+- [Download the Excel audit workbook](https://github.com/AdiGit420/walmart-catalog-health-audit/releases/download/v1.0/Walmart_Catalog_Audit.xlsx)
+- [Download the Power BI report](https://github.com/AdiGit420/walmart-catalog-health-audit/releases/download/v1.0/Walmart_Catalog_Health.pbix)
+- [View the PostgreSQL audit queries](walmart_catalog_audit.sql)
